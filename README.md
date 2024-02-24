@@ -1,3 +1,3 @@
 # MariellaGousse
 
-![Cover](https://github.com/MariellaGousse/MariellaGousse/26983.jpg)
+![Cover](https://github.com/MariellaGousse/26983.jpg)
